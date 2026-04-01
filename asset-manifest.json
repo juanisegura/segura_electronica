@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/segura_electronica/static/css/main.dc1307ae.css",
+    "main.js": "/segura_electronica/static/js/main.e839d3b4.js",
+    "index.html": "/segura_electronica/index.html",
+    "main.dc1307ae.css.map": "/segura_electronica/static/css/main.dc1307ae.css.map",
+    "main.e839d3b4.js.map": "/segura_electronica/static/js/main.e839d3b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc1307ae.css",
+    "static/js/main.e839d3b4.js"
+  ]
+}
